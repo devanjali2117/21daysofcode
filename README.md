@@ -1,1 +1,23 @@
-# 21daysofcode
+# Daily 10 questions from HTML, CSS and Javascript.
+
+- Day 1: Create a simple webpage with headings, paragraphs, and lists.
+- Day 2: Practice using HTML forms for user input.
+- Day 3: Explore semantic HTML elements for better page structure.
+- Day 4: Apply basic styles to your HTML using CSS.
+- Day 5: Understand the box model and apply margins, paddings, and borders.
+- Day 6: Experiment with different selectors and combinators.
+- Day 7: Learn about media queries and make your webpage responsive.
+- Day 8: Implement a mobile-first approach in your styles.
+- Day 9: Test your webpage on various devices or browsers.
+- Day 10: Dive into Flexbox for flexible layouts.
+- Day 11: Explore CSS Grid for more complex and responsive designs.
+- Day 12: Combine Flexbox and Grid to create a dynamic layout.
+- Day 13: Introduce JavaScript to make your webpage interactive.
+- Day 14: Work with variables, data types, and basic operators.
+- Day 15: Create simple functions and handle user events.
+- Day 16: Understand the Document Object Model (DOM).
+- Day 17: Practice manipulating HTML elements using JavaScript.
+- Day 18: Implement dynamic content changes with DOM manipulation.
+- Day 19: Start a small frontend project (e.g., a to-do list or a simple portfolio).
+- Day 20: Set up a Git repository for version control.
+- Day 21: Commit your project to GitHub, showcasing your frontend skills.
