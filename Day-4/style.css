@@ -1,0 +1,44 @@
+*{
+     box-sizing: border-box;
+
+}
+p{
+    color: red;
+}
+.header{
+    text-align: center;
+    background-color: rgb(10, 102, 184);
+}
+.row{
+    display:flex;
+     justify-content: space-evenly;
+     font-size: 40px;
+}
+.row1{
+    background-color: red;
+    padding: 100px;
+    margin: 0 auto;
+}
+.row2{
+    background-color:blue;
+    padding: 85px;
+    margin: 0 auto;
+}
+.row3{
+    background-color:orange;
+    padding: 90px; 
+    margin: 0 auto;
+
+}
+.nav{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: aqua;
+    padding: 30px;
+}
+.footer{
+     text-align: center;
+     margin: 50px;
+     background-color: blue;
+     
+}
