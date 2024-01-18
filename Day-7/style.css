@@ -1,0 +1,28 @@
+.nav{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+text-decoration-style: none;
+
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none; 
+    /* background-color: white; */
+} 
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: self-start;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    /* align-items: self-start; */
+}
